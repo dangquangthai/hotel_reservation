@@ -1,0 +1,14 @@
+GEM
+  specs:
+    rspec-core (3.13.0)
+      rspec-support (~> 3.13.0)
+    rspec-support (3.13.1)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  rspec-core
+
+BUNDLED WITH
+   2.4.18
